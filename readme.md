@@ -1,9 +1,13 @@
 # Hack Reactor #
 ## Preparatory Course ##
 
+<details>
+<summary> Module 0 </summary>
+
+
 1. convertArrayToObject1.js
 
-    * Write a function 'transformFirstAndLast' that takes in an array returns an object with:
+    * Write a function 'transformFirstAndLast' that takes in an array  an object with:
         1) the first element of the array as the object's key, and
         2) the last element of the array as that key's value.
 
@@ -30,3 +34,14 @@
 7. greetCustomers.js
 
     * Given a name, "greetCustomer" returns a greeting based on how many times that customer has visited the restaurant.  Please refer to the customerData object.
+
+</details>
+
+---
+
+<details>
+<summary> Module 1 </summary>
+
+* 145 problems, nah too much to list them.
+
+</details>
