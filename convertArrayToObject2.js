@@ -1,5 +1,6 @@
 
-function fromListToObject(array) {
+  
+  var fromListToObject = function (array) {
     var obj = {};
     for (var i = 0; i < array.length; i++) {
        var arr = array[i];
@@ -9,7 +10,5 @@ function fromListToObject(array) {
     }
     return obj;
   }
-  
-  var output = fromListToObject(array);
-  var actual = JSON.stringify(output);
-  console.log(actual);
+
+  var actual = JSON.stringify(fromListToObject);

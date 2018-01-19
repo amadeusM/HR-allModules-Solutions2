@@ -1,5 +1,5 @@
 function getAllKeys(obj){
-    var array = []
+    var array = [];
     for (var key in obj) {
       array.push(key);
     }

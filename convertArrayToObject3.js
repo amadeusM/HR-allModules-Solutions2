@@ -1,13 +1,4 @@
 
-function transformEmployeeData(array) {
-  var JSONArr = [];
-  for (var i = 0; i < array.length; i++) {
-    var arr = array[i];
-    var JSONObj = fromListToObject(arr);
-    JSONArr.push(JSONObj);
-  }
-  return JSONArr;
-}
 
 function fromListToObject(array) {
   var obj = {};
@@ -18,4 +9,14 @@ function fromListToObject(array) {
      obj[key] = val;
   }
   return obj;
+}
+
+function transformEmployeeData(array) {
+  var JSONArr = [];
+  for (var i = 0; i < array.length; i++) {
+    var arr = array[i];
+    var JSONObj = fromListToObject(arr);
+    JSONArr.push(JSONObj);
+  }
+  return JSONArr;
 }
