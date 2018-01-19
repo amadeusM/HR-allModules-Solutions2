@@ -9,6 +9,6 @@
        obj[key] = val;
     }
     return obj;
-  }
+  };
 
   var actual = JSON.stringify(fromListToObject);
