@@ -42,7 +42,16 @@
 <details>
 <summary> Module 1 </summary>
 
-* 145 problems, nah too much to list them.
+* 145 problems, practicing how you handle arrays, objects, and writing basic functions.
+
+</details>
+
+---
+
+<details>
+<summary> Module 2 </summary>
+
+* 20 problems, practicing writing Unit tests.
 
 </details>
 
