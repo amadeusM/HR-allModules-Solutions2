@@ -13,4 +13,4 @@
 * Module 3
     * 7 problems, practicing solving problems in 20 minutes or less using TDD.
 ---
-[Hack Reactor](https://github.com/elsheikh21/Hack-Reactor-prep-course/blob/master/hackReactorAvatar.png)
+![Hack Reactor](https://github.com/elsheikh21/Hack-Reactor-prep-course/blob/master/hackReactorAvatar.png)
